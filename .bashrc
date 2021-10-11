@@ -1,3 +1,5 @@
+## Exercise 5 Config File ##
+
 # Define some colors:
 RED='\e[1;31m'
 BLUE='\e[1;34m'
