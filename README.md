@@ -16,3 +16,4 @@ Answer: mkdir my-new-folder
 Write the command (or commands) that will attempt to delete a folder named 'my-nonexistent-folder' and display the following message when the commands fails: 'Whoops, cannot delete a folder that does not exist'.
 Answer: rmdir my-nonexistent-folder
 Write the command (or commands) that will navigate to your desktop, and then to the parent folder of the desktop.
+Asnwer: cd ~/Desktop | cd ..
